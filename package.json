@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
   "start": "node server.js"
+  "main": "server.js"
   },
   "dependencies": {
     "express": "3.4.8",
     "ejs": "*"
   }
-"main": "server.js"
+
 }
